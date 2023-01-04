@@ -3,7 +3,7 @@
 You can also totally build this with regular CSS, though it might take you longer.
 
 ## Links
-- [YouTube Video](https://youtu.be/4wGgkZ7rY9k)
+- [YouTube Video](https://youtu.be/AqfM1vfFm7o)
 - Tailwind CDN: `<script src="https://cdn.tailwindcss.com/"></script>`
 
 
